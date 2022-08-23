@@ -57,3 +57,13 @@ body{
 .clasColor{
     color: rgb(235, 29, 54);
 }
+
+#selectSort {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(109, 139, 116);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: large;
+    border-radius: 10px;
+}

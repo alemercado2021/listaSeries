@@ -90,6 +90,14 @@ const listaSeries= [
     {
         premio:"",
         id: "12",
+        name: "The Mandolarian",
+        año: "2019",
+        temporadas: "2",
+        calificacion: "8",
+    },
+    {
+        premio:"",
+        id: "13",
         name: "Dr.House",
         año: "2004",
         temporadas: "8",
@@ -97,7 +105,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "13",
+        id: "14",
         name: "Mindhunter",
         año: "2017",
         temporadas: "2",
@@ -105,7 +113,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "14",
+        id: "15",
         name: "Peaky blinders",
         año: "2013",
         temporadas: "6",
@@ -113,7 +121,15 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "15",
+        id: "16",
+        name: "Obi-Wan Kenobi",
+        año: "2022",
+        temporadas: "1",
+        calificacion: "8",
+    },
+    {
+        premio:"",
+        id: "17",
         name: "Demon slayer",
         año: "2019",
         temporadas: "2",
@@ -121,7 +137,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "16",
+        id: "18",
         name: "Jujutsu Kaisen",
         año: "2020",
         temporadas: "2",
@@ -129,7 +145,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "17",
+        id: "19",
         name: "Brooklyn 99",
         año: "2013",
         temporadas: "8",
@@ -137,7 +153,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "18",
+        id: "20",
         name: "Friends",
         año: "1994",
         temporadas: "10",
@@ -145,7 +161,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "19",
+        id: "21",
         name: "Glee",
         año: "2009",
         temporadas: "6",
@@ -153,7 +169,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "20",
+        id: "22",
         name: "Hawkeye",
         año: "2021",
         temporadas: "1",
@@ -161,7 +177,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "21",
+        id: "23",
         name: "Atack on titan",
         año: "2013",
         temporadas: "3",
@@ -169,7 +185,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "22",
+        id: "24",
         name: "Falcon and the winter soldier",
         año: "2021",
         temporadas: "1",
@@ -177,7 +193,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "23",
+        id: "25",
         name: "Chernobyl",
         año: "2019",
         temporadas: "1",
@@ -185,7 +201,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "24",
+        id: "26",
         name: "Gambito de dama",
         año: "2020",
         temporadas: "1",
@@ -193,7 +209,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "25",
+        id: "27",
         name: "Sherlock",
         año: "2010",
         temporadas: "4",
@@ -201,7 +217,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "26",
+        id: "28",
         name: "The Crown",
         año: "2016",
         temporadas: "4",
@@ -209,7 +225,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "27",
+        id: "29",
         name: "Ranking of Kings",
         año: "2021",
         temporadas: "1",
@@ -217,7 +233,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "28",
+        id: "30",
         name: "Euphoria",
         año: "2019",
         temporadas: "2",
@@ -225,7 +241,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "29",
+        id: "31",
         name: "Invencible",
         año: "2021",
         temporadas: "1",
@@ -233,7 +249,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "30",
+        id: "32",
         name: "Narcos",
         año: "2015",
         temporadas: "3",
@@ -241,7 +257,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "31",
+        id: "33",
         name: "Black Mirror",
         año: "2011",
         temporadas: "5",
@@ -249,7 +265,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "32",
+        id: "34",
         name: "Time to winning",
         año: "2022",
         temporadas: "1",
@@ -257,7 +273,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "33",
+        id: "35",
         name: "(Des)encanto",
         año: "2018",
         temporadas: "4",
@@ -265,7 +281,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "34",
+        id: "36",
         name: "Sex Education",
         año: "2019",
         temporadas: "2",
@@ -273,7 +289,23 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "35",
+        id: "37",
+        name: "The book of Boba Fett",
+        año: "2021",
+        temporadas: "1",
+        calificacion: "7",
+    },
+    {
+        premio:"",
+        id: "38",
+        name: "Ms.Marvel",
+        año: "2022",
+        temporadas: "1",
+        calificacion: "6",
+    },
+    {
+        premio:"",
+        id: "39",
         name: "13 Reasons Why",
         año: "2017",
         temporadas: "4",
@@ -281,7 +313,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "36",
+        id: "40",
         name: "The Last Kingdom",
         año: "2015",
         temporadas: "5",
@@ -289,7 +321,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "37",
+        id: "41",
         name: "What If...?",
         año: "2021",
         temporadas: "1",
@@ -297,7 +329,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "38",
+        id: "42",
         name: "Squid Game",
         año: "2021",
         temporadas: "1",
@@ -305,7 +337,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "39",
+        id: "43",
         name: "Lucifer",
         año: "2016",
         temporadas: "6",
@@ -313,7 +345,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "40",
+        id: "44",
         name: "Ragnarök",
         año: "2020",
         temporadas: "2",
@@ -321,7 +353,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "41",
+        id: "45",
         name: "How to Get Away with Murder",
         año: "2014",
         temporadas: "6",
@@ -329,7 +361,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "42",
+        id: "46",
         name: "The Get Down",
         año: "2016",
         temporadas: "1",
@@ -337,7 +369,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "43",
+        id: "47",
         name: "La maldición de Hill House",
         año: "2018",
         temporadas: "1",
@@ -345,7 +377,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "44",
+        id: "48",
         name: "Stranger Things",
         año: "2016",
         temporadas: "4",
@@ -353,7 +385,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "45",
+        id: "49",
         name: "Atypical",
         año: "2017",
         temporadas: "4",
@@ -361,7 +393,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "46",
+        id: "50",
         name: "You",
         año: "2018",
         temporadas: "3",
@@ -369,7 +401,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "47",
+        id: "51",
         name: "La casa de papel",
         año: "2017",
         temporadas: "5",
@@ -377,7 +409,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "48",
+        id: "52",
         name: "Nicky Jam: el ganador",
         año: "2018",
         temporadas: "1",
@@ -385,7 +417,7 @@ const listaSeries= [
     },
     {
         premio:"",
-        id: "49",
+        id: "53",
         name: "Historia de un clan",
         año: "2015",
         temporadas: "1",

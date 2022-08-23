@@ -8,12 +8,20 @@
     <title>Lista series</title>
 </head>
 <body>
-    <h1>Top list series</h1>
-    <main id="mainLista">
+    <h1>SERIES TERMINADAS 53</h1>
+    <div>
+        <select id="selectSort" onchange="ordenar(event)">
+            <option value="1">ORDENAR POR CALIFICACION DESCENDENTE</option>
+            <option value="2">ORDENAR POR CALIFICACION ASCENDENTE</option>
+            <option value="3">ORDENAR POR DURACION ASCENDENTE</option>
+            <option value="4">ORDENAR POR DURACION DESCENDENTE</option>
+            <option value="5">ORDENAR POR AÑO DE ESTRENO ASCENDENTE</option>
+            <option value="6">ORDENAR POR AÑO DE ESTRENO DESCENDENTE</option>
+        </select>
+        <main id="mainLista">
 
-
-
-    </main>
+        </main>
+    </div>
     <script src="./javascript/series.js"></script>
     <script src="./javascript/index.js"></script>
 </body>
